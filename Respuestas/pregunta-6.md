@@ -1,1 +1,2 @@
 db.productos.createIndex({ categoria: 1 })
+ 
