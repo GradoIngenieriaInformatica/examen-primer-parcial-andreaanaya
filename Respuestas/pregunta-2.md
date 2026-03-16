@@ -5,3 +5,4 @@ db.productos.insertOne({
   stock: 40,
   marca: "TechPro"
 })
+ 
