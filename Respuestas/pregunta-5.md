@@ -5,4 +5,4 @@ db.productos.aggregate([
       stock_total: { $sum: "$stock" }
     }
   }
-])
+]) 
